@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+env/
+venv/
+ENV/
+.venv/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+*.suo
+*.user
+*.log
+
+# Data / artifacts (ne pas pusher les gros fichiers)
+data/
+*.csv
+artifacts/
+*.pkl
+
+# OS
+.DS_Store
+Thumbs.db
